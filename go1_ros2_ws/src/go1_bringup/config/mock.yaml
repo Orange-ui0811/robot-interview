@@ -1,0 +1,8 @@
+go1_mock:
+  ros__parameters:
+    publish_hz: 50.0
+    max_linear_mps: 0.6
+    max_yaw_rad_s: 1.5
+    watchdog_s: 0.5
+    max_duration_s: 30.0
+    stop_hold_s: 0.15

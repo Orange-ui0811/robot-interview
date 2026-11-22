@@ -1,0 +1,4 @@
+* text=auto
+*.sh text eol=lf
+phanthymotus-driver/interview/go1_mcp/go1_mcp_node text eol=lf
+go1_ros2_ws/src/go1_description/urdf/go1_model.urdf -text

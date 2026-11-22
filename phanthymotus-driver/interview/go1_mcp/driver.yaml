@@ -1,0 +1,15 @@
+id: go1-mock-driver
+name: Go1 Kinematic Simulator
+category: driver
+hardware_provider: simulator
+hardware_model: go1
+port: 15795
+mcp_url: "http://127.0.0.1:15795/mcp"
+description: "Unitree Go1 kinematic mock via ROS 2"
+cards:
+  - { name: loco, type: actuator }
+  - { name: battery, type: sensor }
+  - { name: imu, type: sensor }
+  - { name: joints, type: sensor }
+  - { name: loco_state, type: sensor }
+  - { name: model, type: resource }

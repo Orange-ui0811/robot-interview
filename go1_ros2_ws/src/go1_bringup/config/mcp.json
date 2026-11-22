@@ -1,0 +1,12 @@
+{
+  "host": "127.0.0.1",
+  "port": 15795,
+  "driver_id": "go1-mock-driver",
+  "name": "Go1 Kinematic Simulator",
+  "namespace": "go1_mock",
+  "default_duration_s": 0.5,
+  "max_duration_s": 30.0,
+  "register_refresh_s": 30.0,
+  "state_timeout_s": 1.0,
+  "rpc_timeout_s": 2.0
+}

@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.venv/
+go1_ros2_ws/build/
+go1_ros2_ws/install/
+go1_ros2_ws/log/
+bags/
+/go1-smoke-*.log
+/docs/HOST_TEST_LOG.txt

@@ -1,0 +1,9 @@
+float32 vx
+float32 vy
+float32 wz
+float32 duration_s
+---
+bool success
+string message
+---
+float32 elapsed_s
